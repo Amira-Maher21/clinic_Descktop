@@ -1,0 +1,3 @@
+F:\Amira Work\clinic\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+F:\Amira Work\clinic\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+F:\Amira Work\clinic\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache

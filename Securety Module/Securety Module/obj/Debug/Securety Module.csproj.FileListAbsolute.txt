@@ -1,0 +1,488 @@
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\Securety Module.exe.config
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\Securety Module.exe
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\Securety Module.pdb
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety Module.csprojResolveAssemblyReference.cache
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Properties.Resources.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety Module.csproj.GenerateResource.Cache
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety Module.exe
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety Module.pdb
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety Module.exe.licenses
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Images.v19.2.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.xml
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Login.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainPermessions.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainSecureForm.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.Ranks.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.RanksPermessions.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.SubPermessions.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UpdatePassword.resources
+c:\users\smartone4\documents\visual studio 2015\Projects\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UserForm.resources
+D:\Securety Module\Securety Module\bin\Debug\Securety Module.exe.config
+D:\Securety Module\Securety Module\obj\Debug\Securety Module.exe
+D:\Securety Module\Securety Module\obj\Debug\Securety Module.pdb
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Login.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainPermessions.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainSecureForm.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.Ranks.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.RanksPermessions.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.SubPermessions.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UpdatePassword.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UserForm.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety_Module.Properties.Resources.resources
+D:\Securety Module\Securety Module\obj\Debug\Securety Module.csproj.GenerateResource.Cache
+D:\Securety Module\Securety Module\obj\Debug\Securety Module.exe.licenses
+D:\Securety Module\Securety Module\bin\Debug\Securety Module.exe
+D:\Securety Module\Securety Module\bin\Debug\Securety Module.pdb
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Securety Module\Securety Module\obj\Debug\Securety Module.csprojResolveAssemblyReference.cache
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe.config
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.pdb
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.pdb
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Images.v19.2.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.csprojResolveAssemblyReference.cache
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Login.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainPermessions.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainSecureForm.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.Ranks.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.RanksPermessions.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.SubPermessions.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UpdatePassword.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UserForm.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Properties.Resources.resources
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.csproj.GenerateResource.Cache
+F:\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe.licenses
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe.config
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.pdb
+D:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe.config
+D:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe
+D:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.pdb
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.pdb
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Images.v19.2.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.csprojResolveAssemblyReference.cache
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Login.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainPermessions.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainSecureForm.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.Ranks.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.RanksPermessions.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.SubPermessions.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UpdatePassword.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UserForm.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Properties.Resources.resources
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.csproj.GenerateResource.Cache
+F:\amira wark\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe.licenses
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe.config
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.exe
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\Securety Module.pdb
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Images.v19.2.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Data.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Utils.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraBars.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\DevExpress.Office.v19.2.Core.xml
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.csprojResolveAssemblyReference.cache
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Login.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainPermessions.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.MainSecureForm.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.Ranks.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.RanksPermessions.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.SubPermessions.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UpdatePassword.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Forms.UserForm.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety_Module.Properties.Resources.resources
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.csproj.GenerateResource.Cache
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe.licenses
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.exe
+G:\New folder\Amira Work\Securety Module\Securety Module\obj\Debug\Securety Module.pdb
